@@ -1,0 +1,8 @@
+Sudoku is divided into 9 intermediate boxes, which are further divided into 9 fundamental (smallest) boxes, which contain numbers from 1 to 9.
+
+A part of the puzzle is already there, your objective is to fill out the remaining numbers keeping the following 2 rules in mind:
+
+1. Each row should have the numbers 1 to 9, with none of them being repeated.
+2. Each intermediate box should have the numbers 1 to 9, with none repeating.
+
+This puzzle looks deceptively simple, but it blows you away. Solving it without a computer is challenging enough; making an algorithm to do the same provides numerous learning challenges along the way. After you arrive at a solution, your brain will never be the same. 
